@@ -26,10 +26,16 @@ export const teamInfo = {
     },
     denis: {
         pageTitle: "Denis",
-        pageHTML: `<h1 class="${headerClass}">Denis Vasyliev</h1>`
+        pageHTML: `
+            <h1 class="${headerClass}">Denis Vasyliev</h1>
+            <p class="${paragraphClass}">My name is Denis and I like watching "Chainsaw Man".</p>
+        `
     },
     udjiniia: {
         pageTitle: "Udjiniia",
-        pageHTML: `<h1 class="${headerClass}">Udjiniia Hryaznova</h1>`
+        pageHTML: `
+                <h1 class="${headerClass}">Udjiniia Hryaznova</h1>
+                <p class="${paragraphClass}">Hi, my name is Udjiniia. Welcome to my page!</p>
+            `
     }
 };
