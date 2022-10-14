@@ -1,0 +1,14 @@
+{
+  "name": "lr1-spa",
+  "version": "1.0.0",
+  "description": "SPA for 1 lab work",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sofiia Trokhymchuk, Denis Vasyliev, Udjiniia Hryaznova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
